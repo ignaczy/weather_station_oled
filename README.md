@@ -10,11 +10,17 @@ An interactive weather station built on **STM32 Nucleo** using C++/Arduino frame
 
 ---
 
+## 📸 Setup
+
+<img src="docs/img.JPG" width="40%" alt="Hardware Setup">
+
+---
+
 ## 📽️ Demo & Testing
 
 Check out the weather station in action:
 
-<video src="docs/test_movie.mp4" width="50%" controls></video>
+<img src="docs/test_movie.gif" width="60%" alt="Weather Station Demo">
 
 ---
 
